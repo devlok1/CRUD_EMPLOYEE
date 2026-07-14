@@ -11,8 +11,8 @@ import java.util.Scanner;
 public class crud_edb {
 
 	private static final String url = "jdbc:mysql://localhost:3306/Employeedb";
-	private static final String user = "root";
-	private static final String password = "root";
+	private static final String user = "your_username";
+	private static final String password = "your_password";
 	static Scanner sc = new Scanner(System.in);
 	static Connection c;
 	
